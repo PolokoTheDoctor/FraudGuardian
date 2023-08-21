@@ -42,4 +42,4 @@ volume of financial data becomes challenging.
  Need for Efficient Solutions: Amidst modern finance intricacies, a comprehensive 
 solution merging AI's analytical prowess with financial complexity is imperative. This 
 solution must address accurate financial analysis, real-time risk assessment, and 
-proactive fraud detection, enhancing decision-making and securing financial integrity.
+proactive fraud detection,enhancing decision-making and securing financial integrity.
